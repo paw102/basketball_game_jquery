@@ -1,8 +1,3 @@
-<style type='text/css'>
-  h1 {
-    text-decoration-line: none;
-  }
-</style>
 🏀 Basketball Game Project
 ====
 
@@ -11,10 +6,10 @@
 
 <h1>📖 프로젝트 소개</h1>
 
----
+
 이 프로젝트는 컴퓨터와 사용자가 번갈아 가면서 슛을 시도하여 더 높은 점수를 얻는 쪽이 승리하는 간단한 농구 게임입니다. 초기 버전에서는 `Vanilla JavaScript` 로 구현했으며, 이후 객체화와 함수화 과정을 통해 코드를 개선했습니다. 마지막으로 `jQuery` 를 도입하여 DOM 조작 및 이벤트 처리 방식을 더 간결하게 만들었습니다. 
 
----
+
 
 
 <h2>🕰️ 버전 히스토리</h2>
@@ -29,7 +24,7 @@ DOM 조작: `document.getElementById()`, `document.getElementsByClassName()` 사
 
 로직 구현: 순차적인 절차 지향 프로그래밍 방식으로 작성
 
----
+
 
 <h3>♻️ 2. 리팩토링</h3>
 
@@ -44,7 +39,7 @@ DOM 조작: `document.getElementById()`, `document.getElementsByClassName()` 사
 
 AI 로직 추가: 점수 차이에 따라 컴퓨터의 슛 성공 확률이 조정되도록 구현
 
----
+
 
 <h3>💡 3. jQuery 도입</h3>
 
@@ -56,11 +51,11 @@ DOM 셀렉션: `$('#user-score'), $('.btn-computer')` 등 CSS 선택자 문법�
 
 플러그인 사용: `jquery.animateNumber` 플러그인을 통해 점수판의 숫자 애니메이션 적용
 
----
+
 
 <h2>⚙️ 주요 개념 및 원리 (Key Concepts & Principles)</h2>
 
----
+
 
 <h3>📌 1. DOM 조작</h3>
 
@@ -86,11 +81,11 @@ DOM 셀렉션: `$('#user-score'), $('.btn-computer')` 등 CSS 선택자 문법�
 
 비동기 함수의 제어권 반환과 콜백 함수의 실행 순서를 이해함
 
----
+
 
 <h2>🆚 jQuery 적용의 장단점</h2>
 
----
+
 
 <h3>✅ 장점</h3>
 
@@ -108,11 +103,11 @@ DOM 셀렉션: `$('#user-score'), $('.btn-computer')` 등 CSS 선택자 문법�
 
 최신 `JavaScript` 에서는 `querySelector()` 및 `querySelectorAll()` 로 유사한 기능을 제공
 
----
+
 
 <h2>📚 배운 점과 앞으로의 과제</h2>
 
----
+
 
 <h3>🎯 배운 점</h3>
 
@@ -132,11 +127,11 @@ DOM 셀렉션: `$('#user-score'), $('.btn-computer')` 등 CSS 선택자 문법�
 
 CSS 애니메이션과 트랜지션을 사용해 더 자연스러운 사용자 경험 제공
 
----
+
 
 <h2>💻 프로젝트 실행 방법</h3>
 
----
+
 
 <h3>📥 1. 코드 다운로드</h3>
 
@@ -154,17 +149,16 @@ CSS 애니메이션과 트랜지션을 사용해 더 자연스러운 사용자 �
 
 `index.html` 파일을 브라우저에서 열어 게임을 시작하세요
 
----
+
 <h2>🏁 마무리</h2>
 
----
+
 
 이 프로젝트는 `JavaScript` 와 `jQuery` 를 사용하여 단계적으로 기능을 개선해 나가는 과정을 통해 더 효율적이고 유지보수하기 쉬운 코드를 작성하는 방법을 배울 수 있었습니다. 앞으로도 최신 기술을 적용하여 더 발전된 프로젝트로 확장해 나가겠습니다.
 
----
+
 
 👤 Author: paw102
 
 🗓️ Last Updated: 2025-02-20
 
----
