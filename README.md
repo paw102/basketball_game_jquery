@@ -2,7 +2,6 @@
 
 ![latestversion](https://img.shields.io/badge/latest_Version-3.0-blue)
 
----
 
 <h1>📖 프로젝트 소개</h1>
 
