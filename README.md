@@ -1,3 +1,8 @@
+<style>
+  h1 {
+    style: text-decoration : none;
+  }
+</style>
 <h1>🏀 Basketball Game Project</h1>
 
 ![latestversion](https://img.shields.io/badge/latest_Version-3.0-blue)
@@ -5,6 +10,7 @@
 
 <h1>📖 프로젝트 소개</h1>
 
+---
 이 프로젝트는 컴퓨터와 사용자가 번갈아 가면서 슛을 시도하여 더 높은 점수를 얻는 쪽이 승리하는 간단한 농구 게임입니다. 초기 버전에서는 `Vanilla JavaScript` 로 구현했으며, 이후 객체화와 함수화 과정을 통해 코드를 개선했습니다. 마지막으로 `jQuery` 를 도입하여 DOM 조작 및 이벤트 처리 방식을 더 간결하게 만들었습니다. 
 
 ---
