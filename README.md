@@ -3,7 +3,8 @@
     text-decoration-line: none;
   }
 </style>
-<h1>🏀 Basketball Game Project</h1>
+🏀 Basketball Game Project
+====
 
 ![latestversion](https://img.shields.io/badge/latest_Version-3.0-blue)
 
