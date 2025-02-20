@@ -1,6 +1,6 @@
 <style>
   h1 {
-    style: text-decoration : none;
+    text-decoration-line: none;
   }
 </style>
 <h1>🏀 Basketball Game Project</h1>
